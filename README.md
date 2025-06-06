@@ -2,8 +2,8 @@
 Similar to frogger in python, but made in the C language
 
 Compiling and Running the Program
-1 - frogger.c
-To compile frogger.c:
+1 - frogger.c\n
+To compile frogger.c:\n
 gcc-o frogger frogger.c
 Then run the ’frogger’ exectuable by typing ’./frogger’ in the terminal
 2 - frogger_GUI.c
